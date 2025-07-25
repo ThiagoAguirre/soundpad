@@ -1,0 +1,1 @@
+# Configurações (pastas, atalhos, volume)
