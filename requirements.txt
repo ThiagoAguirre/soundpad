@@ -1,3 +1,4 @@
-# Dependências do projeto
+sounddevice
+soundfile
+keyboard
 pygame
-customtkinter
